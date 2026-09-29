@@ -1,7 +1,5 @@
 
-  # Smart Food Ingredient Scanner UI
-
-  This is a code bundle for Smart Food Ingredient Scanner UI. The original project is available at https://www.figma.com/design/mhsi5ZyVKmwbbYk08LepMu/Smart-Food-Ingredient-Scanner-UI.
+ 
 
   ## Running the code
 
